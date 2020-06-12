@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "PageBaseOnDataTable", "PageBaseOnDataTable\", "{3577CF86-42D3-4296-B7D1-1FEEDCAA72D3}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_61153"
+		Debug.AspNetCompiler.PhysicalPath = "PageBaseOnDataTable\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_61153\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_61153"
+		Release.AspNetCompiler.PhysicalPath = "PageBaseOnDataTable\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_61153\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "61153"
+		SlnRelativePath = "PageBaseOnDataTable\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3577CF86-42D3-4296-B7D1-1FEEDCAA72D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3577CF86-42D3-4296-B7D1-1FEEDCAA72D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7879DB80-4E70-467D-865B-012BFF92263C}
+	EndGlobalSection
+EndGlobal
